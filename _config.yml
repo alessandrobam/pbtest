@@ -1,7 +1,7 @@
 title: PlanBuild Standard Operating Procedure
 description: Proposal and delivery operating guidance for the Abbott account.
-url: ""
-baseurl: ""
+url: "https://alessandrobam.github.io"
+baseurl: "/pbtest"
 repository_url: https://github.com/alessandrobam/pbtest
 markdown: kramdown
 collections:
