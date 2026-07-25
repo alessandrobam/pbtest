@@ -1,0 +1,4 @@
+method,applies_when,new_revenue,new_signings,work_numbers,registration_url
+Fixed price,"Scope, deliverables, assumptions, and acceptance can be defined confidently.",Yes,Yes,Required,#
+Time and materials,"Scope or effort may evolve and billing uses actual time and agreed rates.",Yes,Yes,Required,#
+Existing commitment,"Work is covered by an existing contractual or funded commitment.",No,No,Confirm locally,#
